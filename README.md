@@ -21,7 +21,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-- 🌱 I am a Technician in Microinformtiocs Systems and Networks (SMR) and a Technician in Web Application Development (DAW)
+- 🌱 I am a Technician in **Microcomputer Systems and Networks (SMR)** and a **Technician in Web Application Development (DAW)**
 
 - 🔭 I am working as a Backen developer 
 
